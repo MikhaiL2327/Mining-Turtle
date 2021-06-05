@@ -70,7 +70,7 @@ function dropThrash()
     "minecraft:dirt",
 	"minecraft:diorite",
     "minecraft:granite",
-    "minecraft:andesite"
+    "minecraft:andesite",
     }
 
   for i=1, 16 do
